@@ -1,0 +1,40 @@
+body{
+    background-color: aquamarine;
+    color: brown;
+    margin: 0cm;
+    padding: 0cm;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.padre{
+    background-color: blueviolet;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 85px;
+    height: 165px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.informacion{
+    background-color: blue;
+    color: aquamarine;
+}
+.hobbies{
+    background-color: burlywood;
+    margin-left: 10px 50px 10px 10px;
+    margin: 20px;
+
+}
+
